@@ -5,7 +5,7 @@ A classic Snake game implemented in JavaScript, HTML, and CSS, featuring sound e
 
 ## Demo
 
-You can play the game [here]().
+You can play the game [here](https://snake-game-angad.netlify.app/).
 
 ## Features
 
